@@ -1,0 +1,7 @@
+{
+  "name": "Learner Choice - The Learn-to-Earn Ecosystem",
+  "description": "A comprehensive educational platform where teachers earn from their expertise and students are rewarded financially for their learning progress, integrated with mock banking partners for seamless withdrawals.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
